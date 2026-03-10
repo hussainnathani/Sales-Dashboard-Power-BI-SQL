@@ -14,10 +14,10 @@ Tables:
 
 ### SQL queries for data cleaning and exploration
 Data acquired is cleansed using SQL queries here.
-[click here to view code](Data Cleaning & Exploration using SQL.sql)
+[Data Cleaning & Exploration using SQL.sql](https://github.com/hussainnathani/Sales-Dashboard-Power-BI-SQL-/blob/main/Data%20Cleaning%20%26%20Exploration%20using%20SQL.sql)
 
 ### Analysis using SQL
-[Click here to view code](Data Analysis using SQL.sql)
+[Data Analysis using SQL.sql](https://github.com/hussainnathani/Sales-Dashboard-Power-BI-SQL-/blob/main/Data%20Analysis%20using%20SQL.sql)
 Queries:
 1. All tables and their rows in sales schema
 2. Date range in date table
@@ -30,7 +30,7 @@ Queries:
 9. Calculating revenue Contribution percentage for each market across all years
 10. Finding market name that made maximum sales
 
-### Data Visualization using [Power BI dashboard](Sales Insights - Visualization (1).pbix)
+### Data Visualization using [Power BI dashboard](https://github.com/hussainnathani/Sales-Dashboard-Power-BI-SQL-/blob/main/Sales%20Insights%20-%20Visualization%20(1).pbix)
 Getting data into BI through SQL dump and performing Data Visualization and analysing of hardware store products across different regions, observing profit analysis and revenue trend of the company.
 
 ### Insights:
